@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502484310 source:c:\users\andresmauricio\desktop\life\programming\manipulate_strings\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+

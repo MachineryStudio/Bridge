@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500160860 source:c:\users\andresmauricio\desktop\life\programming\c++\input_output\main.cpp
+	<iostream>
+	<string>
+

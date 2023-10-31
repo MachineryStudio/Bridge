@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502484272 source:c:\users\andresmauricio\desktop\life\programming\c++\string_comparison\main.cpp
+	<iostream>
+	<string.h>
+

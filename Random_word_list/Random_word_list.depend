@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1520133666 source:c:\users\andresmauricio\desktop\life\programming\c++\random_word_list\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1520133666 source:g:\seagate\machinery\programming\c++\random_word_list\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
