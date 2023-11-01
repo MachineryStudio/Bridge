@@ -1,2 +1,2 @@
 # Bridge
-This is the setup for new Web App
+# These are examples to practice samples c++
